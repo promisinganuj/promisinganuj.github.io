@@ -3,7 +3,7 @@ layout: post
 title: "A Selfish Perspective on Staying Human in the Age of AI"
 date: 2026-02-20
 categories: [AI, Productivity, Life]
-permalink: /:year/:month/:day/:title/
+permalink: /2026/02/20/staying-human-ai.html
 ---
 
 I recently read a post by Steve Yegge where he described AI as a kind of *vampire*.
