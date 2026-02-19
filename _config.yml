@@ -1,1 +1,6 @@
 theme: minima
+title: Anuj Parashar
+description: Thoughts on AI, Data, and Staying Human
+
+header_pages:
+  - about.md
