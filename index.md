@@ -51,13 +51,10 @@ If this resonates with you, feel free to connect or reach out.
 
 ## 📝 Latest Posts
 
-{% raw %}
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>  
-      <small>— {{ post.date | date: "%b %d, %Y" }}</small>
+      <a href="{{ post.url }}">{{ post.title }}</a> — <small>{{ post.date | date: "%b %d, %Y" }}</small>
     </li>
   {% endfor %}
 </ul>
-{% endraw %}
